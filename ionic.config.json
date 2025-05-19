@@ -1,0 +1,8 @@
+{
+  "name": "Clusterin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "804d3d5e"
+}
